@@ -1,0 +1,14 @@
+*   554e5c3 (HEAD -> master) Risolto conflitto merge
+|\  
+| * e67d78f (home) Inserito colore di sfondo rosso
+| * 86e494e Inserita immagine per la pagina Home
+| *   072dff8 Fusione ramo Contatti
+| |\  
+| | * 7b9d2a2 (Contatti) Inserito file css per i widget
+| | * 35d4719 Creata la pagina Contatti
+| * | e633ab1 Creata Pagina Home
+| |/  
+* | e129f9f Inserito colore di sfondo blu
+* | 2be719d Inserita immagine
+|/  
+* 9b81184 Prima commit

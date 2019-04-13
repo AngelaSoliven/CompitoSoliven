@@ -1,0 +1,103 @@
+commit 554e5c3db4971b3d9bc56d9ac9b2f869596b2dba
+Merge: e129f9f e67d78f
+Author: AngelaSoliven <afaithsoliven@gmail.com>
+Date:   Sat Apr 13 11:40:35 2019 +0200
+
+    Risolto conflitto merge
+
+commit e129f9f5778f2b9614afa386c820f2223fba9d7f
+Author: AngelaSoliven <afaithsoliven@gmail.com>
+Date:   Sat Apr 13 11:37:39 2019 +0200
+
+    Inserito colore di sfondo blu
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..0a4cfdb 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body{background-color:blue;}
+\ No newline at end of file
+
+commit e67d78f59956b804d7980bfc7977ec0ed79e6064
+Author: AngelaSoliven <afaithsoliven@gmail.com>
+Date:   Sat Apr 13 11:34:14 2019 +0200
+
+    Inserito colore di sfondo rosso
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..f634001 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body{background-color:red;}
+\ No newline at end of file
+
+commit 86e494e260481c2b50df69dde7aeaae4f4e55911
+Author: AngelaSoliven <afaithsoliven@gmail.com>
+Date:   Sat Apr 13 11:32:04 2019 +0200
+
+    Inserita immagine per la pagina Home
+
+diff --git a/img/himalaya.jpg b/img/himalaya.jpg
+new file mode 100644
+index 0000000..cde5431
+Binary files /dev/null and b/img/himalaya.jpg differ
+
+commit 072dff89d73e557091a355610c8834c16933a4c4
+Merge: e633ab1 7b9d2a2
+Author: AngelaSoliven <afaithsoliven@gmail.com>
+Date:   Sat Apr 13 11:29:19 2019 +0200
+
+    Fusione ramo Contatti
+
+commit 7b9d2a20c59aa01982158f53145704180aec5427
+Author: AngelaSoliven <afaithsoliven@gmail.com>
+Date:   Sat Apr 13 11:23:26 2019 +0200
+
+    Inserito file css per i widget
+
+diff --git a/css/widget.css b/css/widget.css
+new file mode 100644
+index 0000000..e69de29
+
+commit 35d471927177dc16ef8fb6c112492a3ec2e8822d
+Author: AngelaSoliven <afaithsoliven@gmail.com>
+Date:   Sat Apr 13 11:22:36 2019 +0200
+
+    Creata la pagina Contatti
+
+diff --git a/Compito/contatti.html b/Compito/contatti.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 2be719dfef12e4e4307ee51a15b23770cc02ddcd
+Author: AngelaSoliven <afaithsoliven@gmail.com>
+Date:   Sat Apr 13 11:19:22 2019 +0200
+
+    Inserita immagine
+
+diff --git a/img/mallorca.jpg b/img/mallorca.jpg
+new file mode 100644
+index 0000000..d67e484
+Binary files /dev/null and b/img/mallorca.jpg differ
+
+commit e633ab1c3c249889eb95ff6e08e0fe59e3f589dc
+Author: AngelaSoliven <afaithsoliven@gmail.com>
+Date:   Sat Apr 13 11:14:54 2019 +0200
+
+    Creata Pagina Home
+
+diff --git a/Compito/home.html b/Compito/home.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 9b811844c872a7af3a7d6802dfada54517b9eea8
+Author: AngelaSoliven <afaithsoliven@gmail.com>
+Date:   Sat Apr 13 11:06:57 2019 +0200
+
+    Prima commit
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..e69de29
